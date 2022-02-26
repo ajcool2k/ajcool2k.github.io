@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"my-first-blog-post",description:"Just a short heads-up about this blog.",title:"First Blog Post!",img:"\u002Fimages\u002Focean.jpg",author:{name:"Jens Auerswald",bio:"All about Jens",image:"\u002Fimages\u002Fauthor\u002Fjens.png"}}]}],fetch:{},mutations:void 0});
