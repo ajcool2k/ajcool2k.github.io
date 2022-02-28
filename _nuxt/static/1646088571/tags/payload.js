@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags", (function(a){return {data:[{tagList:{crazy:a,hacking:a}}],fetch:{},mutations:void 0}}(2)));
