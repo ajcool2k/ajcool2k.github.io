@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags", (function(a){return {data:[{tagList:{blog:2,nextjs:a,nuxtjs:a,js:a}}],fetch:{},mutations:void 0}}(1)));
