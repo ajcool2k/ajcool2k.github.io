@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/links", {data:[{_img:{"/_ipx/_/images/links/kassettenbox.png":"\u002F_nuxt\u002Fimage\u002F0def3a.png","/_ipx/_/images/links/logopaedie-schwede.png":"\u002F_nuxt\u002Fimage\u002Fc527ca.png"}}],fetch:{},mutations:void 0});

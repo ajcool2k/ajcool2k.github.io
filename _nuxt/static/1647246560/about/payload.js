@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about", {data:[{_img:{"/_ipx/_/images/author/jens.jpg":"\u002F_nuxt\u002Fimage\u002F6bfe17.jpg"}}],fetch:{},mutations:void 0});
